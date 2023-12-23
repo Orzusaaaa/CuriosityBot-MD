@@ -15,12 +15,12 @@ global.suittag = ['56927170877']
 global.mods = []
 global.prems = []
 
-global.packname = '© CuriosityBot'
-global.author = 'Created By Azami'
-global.wm = '© CuriosityBot-MD'
-global.wm2 = '𝗖𝗎𝗋𝗂𝗈𝗌𝗂𝗍𝗒 : 𝗕𝗈𝗍'
-global.azami = 'Azami'
-global.cb = 'CuriosityBot-MD'
+global.packname = '© AntitoBot-MD'
+global.author = 'Created By Antito'
+global.wm = '© AntitoBot-MD'
+global.wm2 = 'Antito : 𝗕𝗈𝗍'
+global.azami = 'Antito'
+global.cb = 'AntitoBot-MD'
 
 global.vs = 'V2 • 1.0.5'
 global.library = 'Baileys'
